@@ -10,7 +10,6 @@ All six product categories contributed almost equally (~16–17% each) to total 
 Insight:
 -No category dominates revenue.
 -Revenue distribution is highly balanced.
--No observable 80/20 Pareto effect.
 
 Key Findings:
 -Revenue is Price-Driven
